@@ -1,0 +1,25 @@
+C:\Users\t00212237\source\repos\Take-Away System\Take-Away System\obj\Debug\Take-Away System.csprojAssemblyReference.cache
+C:\Users\t00212237\source\repos\Take-Away System\Take-Away System\obj\Debug\Take_Away_System.frmMainMenu.resources
+C:\Users\t00212237\source\repos\Take-Away System\Take-Away System\obj\Debug\Take_Away_System.Properties.Resources.resources
+C:\Users\t00212237\source\repos\Take-Away System\Take-Away System\obj\Debug\Take-Away System.csproj.GenerateResource.cache
+C:\Users\t00212237\source\repos\Take-Away System\Take-Away System\obj\Debug\Take-Away System.csproj.CoreCompileInputs.cache
+C:\Users\t00212237\source\repos\Take-Away System\Take-Away System\bin\Debug\Take-Away System.exe.config
+C:\Users\t00212237\source\repos\Take-Away System\Take-Away System\bin\Debug\Take-Away System.exe
+C:\Users\t00212237\source\repos\Take-Away System\Take-Away System\bin\Debug\Take-Away System.pdb
+C:\Users\t00212237\source\repos\Take-Away System\Take-Away System\obj\Debug\Take-Away System.exe
+C:\Users\t00212237\source\repos\Take-Away System\Take-Away System\obj\Debug\Take-Away System.pdb
+C:\Users\t00212237\source\repos\Take-Away System\Take-Away System\obj\Debug\Take_Away_System.frmAddMenuItem.resources
+C:\Users\t00212237\Desktop\Take-Away System\Take-Away System\Take-Away System\bin\Debug\Take-Away System.exe.config
+C:\Users\t00212237\Desktop\Take-Away System\Take-Away System\Take-Away System\bin\Debug\Take-Away System.exe
+C:\Users\t00212237\Desktop\Take-Away System\Take-Away System\Take-Away System\bin\Debug\Take-Away System.pdb
+C:\Users\t00212237\Desktop\Take-Away System\Take-Away System\Take-Away System\obj\Debug\Take-Away System.csprojAssemblyReference.cache
+C:\Users\t00212237\Desktop\Take-Away System\Take-Away System\Take-Away System\obj\Debug\Take_Away_System.frmAddMenuItem.resources
+C:\Users\t00212237\Desktop\Take-Away System\Take-Away System\Take-Away System\obj\Debug\Take_Away_System.frmMainMenu.resources
+C:\Users\t00212237\Desktop\Take-Away System\Take-Away System\Take-Away System\obj\Debug\Take_Away_System.Properties.Resources.resources
+C:\Users\t00212237\Desktop\Take-Away System\Take-Away System\Take-Away System\obj\Debug\Take-Away System.csproj.GenerateResource.cache
+C:\Users\t00212237\Desktop\Take-Away System\Take-Away System\Take-Away System\obj\Debug\Take-Away System.csproj.CoreCompileInputs.cache
+C:\Users\t00212237\Desktop\Take-Away System\Take-Away System\Take-Away System\obj\Debug\Take-Away System.exe
+C:\Users\t00212237\Desktop\Take-Away System\Take-Away System\Take-Away System\obj\Debug\Take-Away System.pdb
+C:\Users\t00212237\Desktop\Take-Away System\Take-Away System\Take-Away System\obj\Debug\Take_Away_System.frmRemoveMenuItem.resources
+C:\Users\t00212237\Desktop\Take-Away System\Take-Away System\Take-Away System\obj\Debug\Take_Away_System.frmChangeMenuItem.resources
+C:\Users\t00212237\Desktop\Take-Away System\Take-Away System\Take-Away System\obj\Debug\Take_Away_System.frmViewMenu.resources
